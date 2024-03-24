@@ -1,0 +1,5 @@
+fd-find 
+fzf
+mpv
+ripgrep
+tmux
