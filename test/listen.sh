@@ -19,6 +19,9 @@ asciiart="
 "
 echo "$asciiart"
 
+# FIX: add channel change button 
+# FIX: add dashboard
+
 selected_station=$(awk -F ',' '{ print $1 }' ./src/radyodelisi.csv | fzf --prompt="Select a radio station: ")
 if [ -n "$selected_station" ]; then
     station=$(awk -F ',' -v station="$selected_station" '$1 == station { print $2 }' ./src/radyodelisi.csv)

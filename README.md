@@ -20,11 +20,11 @@ This radio player is the first version that works bare-bones, before plugins. It
 
 ## Todo 
 
-- [ ] executable radio listener 
-- [ ] new radio stations add feature ( bash script & CSV file )
+- [x] executable radio listener - make this project executable
+- [x] new radio stations add feature ( bash script & CSV file )
 - [ ] graphic visualizer 
 - [ ] zsh-integration ( add this add zsh function )
-
+- [x] Dashboard 
 
 ## Installation 
 
@@ -38,6 +38,6 @@ bash install.sh
 
 ```bash 
 cd radio-mpv-station 
-bash listen.sh
+./radio-dashboard.sh
 ```
 
