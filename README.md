@@ -20,8 +20,9 @@ This radio player is the first version that works bare-bones, before plugins. It
 
 ## Video 
 
+<!-- [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID) --> 
 
-[![CLI-Bash-Radio-Dashboard](https://www.youtube.com/watch?v=ScJ30aipwf8/0.jpg)](https://www.youtube.com/watch?v=ScJ30aipwf8)
+[![CLI-Bash-Radio-Dashboard](https://img.youtube.com/vi/ScJ30aipwf8/0.jpg)](https://www.youtube.com/watch?v=ScJ30aipwf8)
 
 
 ## Todo 
