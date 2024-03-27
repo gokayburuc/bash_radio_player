@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# INFO: you can customize radio player as you wish i wrote my name with ascii here  
+
 # Function to display the menu
 display_menu() {
     clear 
