@@ -20,9 +20,8 @@ This radio player is the first version that works bare-bones, before plugins. It
 
 ## Video 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ScJ30aipwf8?si=ei2teWv4tls6HcWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
+[![CLI-Bash-Radio-Dashboard](https://www.youtube.com/watch?v=ScJ30aipwf8/0.jpg)](https://www.youtube.com/watch?v=ScJ30aipwf8)
 
 
 ## Todo 
@@ -32,6 +31,10 @@ This radio player is the first version that works bare-bones, before plugins. It
 - [ ] graphic visualizer 
 - [ ] zsh-integration ( add this add zsh function )
 - [x] Dashboard 
+- [x] add station 
+- [x] remove station
+
+
 
 ## Installation 
 
@@ -39,6 +42,12 @@ Just open the folder and install required apps with `install.sh` :
 
 ```bash 
 bash install.sh 
+```
+
+if `dashboard.sh` not working properly use this code also to make it executable: 
+
+```bash 
+chmod +x radio-dashboard.sh
 ```
 
 ## Usage 
